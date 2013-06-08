@@ -1,10 +1,66 @@
-Choose-Emma
-===========
 
-Emma NEEDS to be accepted into Codefellows!
-
-Why Emma?
-
-  1. Committed
-  2. Quick
-  3. Fun!
+  <head>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <title>Choose Emma!</title>
+  </head>
+  <body>
+    <h1>Hello, Code Fellows!</h1>
+      <p>Welcome to why Emma should be accepted into Codefellows! We could be here all day talking about how much it 
+      would be a dream come true; lets cut to the chase:</p>
+    <h2>Who is <a href="http://www.linkedin.com/pub/emma-hardman/40/b74/629/">Emma</a>?</h2>
+        <ol>
+        <li>
+         <table>
+            <thead>
+              <th colspan="1">She's from Seattle!</th>
+            </thead>      
+            <tr>
+              <td><a href="http://www.seattle.gov"><img src="http://media.komonews.com/images/660*421/Seattle_sunrise.jpg"/></a></td>
+             </tr>
+          </table>
+        </li>
+         <li>
+          <table>
+            <thead>
+              <th colspan="3">She enjoys all sorts of beverages!</th>
+            </thead>
+                <tr>
+                  <td><a href="http://www.victrolacoffee.com/"><img src="http://farm8.staticflickr.com/7232/7309925740_0d3baaa4e0_z.jpg"/></a></td>
+                  <td><a href="http://en.wikipedia.org/wiki/Scotch_whisky"><img src="http://www.stockpodium.com/stock-photo-8947409/glass-scotch-whiskey-image.jpg"/></a></td>
+                  <td><a href="http://drinks.seriouseats.com/2011/03/tea-time-what-is-genmaicha-green-tea-toasted-rice.html"><img src="http://1.bp.blogspot.com/-wYyNan51LOY/TjrZCEy8-ZI/AAAAAAAAAJ0/MNMOxZVYPEA/s1600/green-tea.jpg"/></a></td></tr>
+                <tr>
+                  <td>Coffee!</td>
+                  <td>Scotch!</td>
+                  <td>Tea!</td>
+                 </tr>
+            </table>
+          </li> 
+          <li>
+          <h2>She likes some other things, too.</h2>
+            <ul>
+              <li>reading books</li>
+              <li>walking pretty far</li>
+              <li>all sorts of tv</li>
+              <li>watermelon</li>
+              <li>travel!</li>
+              <li>making lists</li>
+            </ul>
+          </li>
+        </oli>
+        <h2>How much does Emma want to be in the Codefellows Program?</h2>
+            <p style="font-size: 60px; color: #09f210"><a href="http://en.wiktionary.org/wiki/a_lot">SO MUCH!</a></p>
+        <h2>So much that I will attempt to code javascript, which I am very new at:</h2>
+            <div id="orange"></div>
+            <div id="yellow"></div>
+        <p>...did it work?</p>
+        <h2>In Review</h2>
+            <ol>
+                <li>Emma is a human person with interests.</li>
+                <li>She clearly needs some help with coding...BUT:</li>
+                <li>Writing this code has been the highlight of her week.</li>
+                <li>Sometimes she doesn't know whether to talk in third person or not.</li>
+            </ol>
+        <h2>Thank you for indulging this attempt!</h2>
+            
+   
