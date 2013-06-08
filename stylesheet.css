@@ -1,0 +1,37 @@
+body {
+  background-color: #269cb5;
+    font-family: Helvetica, sans-serif;
+   }
+
+h1{
+    font-size:50px;
+  }
+img {
+    width:250px;
+    height:200px;
+  }
+table, td {
+    border:3px #333 double;
+    background-color: #26b486;
+    padding: 10px;
+    text-align: center;
+   }
+thead {
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+  }
+li {
+    font-size: 25px;
+  }
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    }
+#orange {
+    background-color:#ff5c00;
+  }
+
+#yellow {
+    background-color:#ffb600;
+  }
