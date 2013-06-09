@@ -1,4 +1,3 @@
-
   <head>
     <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
     <script type="text/javascript" src="script.js"></script>
@@ -8,7 +7,7 @@
     <h1>Hello, Code Fellows!</h1>
       <p>Welcome to why Emma should be accepted into Codefellows! We could be here all day talking about how much it 
       would be a dream come true; lets cut to the chase:</p>
-    <h2>Who is <a href="http://www.linkedin.com/pub/emma-hardman/40/b74/629/">Emma</a>?</h2>
+    <h2>Who is <a href="http://www.linkedin.com/in/emmahardman">Emma</a>?</h2>
         <ol>
         <li>
          <table>
